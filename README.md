@@ -7,6 +7,7 @@
 
 ## What functions are where? 
 - A handy functions.png is provided in each repository to visualize which functions are present in which files
+- Generated using my library [functionFinder](https://github.com/SubhadityaMukherjee/functionFinder)
 
 ## What do I need?
 - Not much, just numpy, openai gym and eventually Pytorch
